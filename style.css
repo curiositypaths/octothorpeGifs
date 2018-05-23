@@ -1,0 +1,29 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+ }
+
+#container {
+    width: 900px;
+    margin:auto;
+    margin-top:50px;
+}
+
+img {
+    padding-top: 20px;
+    width: 500px;
+    margin:auto;
+    display: block;
+}
+
+#new-gif-input {
+    width: 100%;
+    font-size: 2rem;
+}
+
+#header {
+    font-style: italic;
+    font-family: "Comic Sans MS";
+    font-size:3rem;
+    text-align: center;
+}
